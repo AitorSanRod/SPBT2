@@ -1,0 +1,65 @@
+[
+    {
+        "id":0,
+        "pareja":"Los Hermanos Brothers",
+        "jugadores":["Roberto","Aitor"],
+        "partidosGanados":3,
+        "puntos": 45,
+        "imagen":"../img/brothers.jpg",
+        "texto":"Que mira bobo? tira pa ya"
+    },
+    {
+        "id":1,
+        "pareja":"Edriadna's",
+        "jugadores":["Adri","Ari"],
+        "partidosGanados":0,
+        "puntos": 22,
+        "imagen":"../img/edri.jpg",
+        "texto":"Ed, Eri y Edri"
+    },
+    {
+        "id":2,
+        "pareja":"PadelScript",
+        "jugadores":["David","Salgado"],
+        "partidosGanados":1,
+        "puntos": 15,
+        "imagen":"../img/salty.jpg",
+        "texto":"Salgado no mas"
+    },
+    {
+        "id":3,
+        "pareja":"Doctores y capibaras",
+        "jugadores":["Cgoob","Cris"],
+        "partidosGanados":1,
+        "puntos": 34,
+        "imagen":"../img/doc.jpg",
+        "texto":"Ojalá alguno sea médico"
+    },
+    {
+        "id":4,
+        "pareja":"Los agentes Mara",
+        "jugadores":["Aser","Mora"],
+        "partidosGanados":1,
+        "puntos": 21,
+        "imagen":"../img/maras.jpg",
+        "texto":"Sale Adri en la foto"
+    },
+    {
+        "id":5,
+        "pareja":"Dos cojos muy mancos",
+        "jugadores":["Jaime","Javi"],
+        "partidosGanados":1,
+        "puntos": 21,
+        "imagen":"../img/cojos.jpg",
+        "texto":"Aquí tambien sale"
+    },
+    {
+        "id":6,
+        "pareja":"Ahí va mi burst!",
+        "jugadores":["Tucho","Alberto"],
+        "partidosGanados":2,
+        "puntos": 35,
+        "imagen":"../img/tuchoAlberto2.jpg",
+        "texto":"Dos tremen2 CSMs"
+    }
+]

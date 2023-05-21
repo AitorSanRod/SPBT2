@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style/main.css">
+    <title>SPBT 2 | Parejas</title>
+</head>
+<body>
+    <div id="menuResponsive">
+        <a id="botonMenu" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
+            aria-controls="offcanvasExample">
+            <img src="../img/hamb.svg" width="50vw" height="50vh" alt="">
+        </a>
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample"
+            aria-labelledby="offcanvasExampleLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Salgado MVP</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body mt-5">
+                <ul class="nav nav-pills row justify-content-center align-items-center">
+                    <li class="nav-item col col-6">
+                        <a href="../index.html" class="nav-link fs-5 text-light row justify-content-center align-items-center">
+                            <img src="../img/home.png" class="img-fluid" alt="home" width="60px">
+                            <p class="text-dark text-center">Portada</p>
+                        </a>
+                    </li>
+                    <li class="nav-item col col-6">
+                        <a href="#" class="nav-link fs-5 text-light row justify-content-center align-items-center">
+                            <img src="../img/pala.png" class="img-fluid" alt="home" width="60px">
+                            <p class="text-dark text-center">Parejas</p>
+                        </a>
+                    </li>
+                    <li class="nav-item col col-6">
+                        <a href="clasificacion.html" class="nav-link fs-5 text-light row justify-content-center align-items-center">
+                            <img src="../img/rank.png" class="img-fluid" alt="home" width="60px">
+                            <p class="text-dark text-center">Ranking</p>
+                        </a>
+                    </li>
+                    <li class="nav-item col col-6">
+                        <a href="galeria.html" class="nav-link fs-5 text-light row justify-content-center align-items-center">
+                            <img src="../img/galeria.png" class="img-fluid" alt="home" width="60px">
+                            <p class="text-dark text-center">Galería</p>
+                        </a>
+                    </li>
+                    <li class="nav-item col col-6">
+                        <a href="calendario.html" class="nav-link fs-5 text-light row justify-content-center align-items-center">
+                            <img src="../img/calendar.png" class="img-fluid" alt="home" width="60px">
+                            <p class="text-dark text-center">Calendario</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="cabecera" class="cabecera">
+        <header class="d-flex justify-content-center pt-3 pb-1 w-100 fixed-top top">
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a href="../index.html" class="nav-link fs-5 text-light">
+                        <img src="../img/home.png" class="img-fluid" alt="home" width="60px">
+                        <p class="text-dark">Portada</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link fs-5 text-light">
+                        <img src="../img/pala.png" class="img-fluid" alt="home" width="60px">
+                        <p class="text-dark">Parejas</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="clasificacion.html" class="nav-link fs-5 text-light">
+                        <img src="../img/rank.png" class="img-fluid ms-1" alt="home" width="60px">
+                        <p class="text-dark">Ranking</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="galeria.html" class="nav-link fs-5 text-light">
+                        <img src="../img/galeria.png" class="img-fluid ms-1" alt="home" width="60px">
+                        <p class="text-dark">Galería</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="calendario.html" class="nav-link fs-5 text-light">
+                        <img src="../img/calendar.png" class="img-fluid ms-3" alt="home" width="60px">
+                        <p class="text-dark">Calendario</p>
+                    </a>
+                </li>
+            </ul>
+        </header>
+    </div>
+    <div class="px-4 mt-5 pt-5 mb-3 text-center border-bottom">
+        <h1 class="display-4 fw-bold">Super Padel Bros Tour 2</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">
+                Pretemporada - Primera jornada.
+            </p>
+        </div>
+    </div>
+    <div class="container">
+        <div id="listaEquipos" class="row w-100">
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img0" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja0"></h5>
+                    <p class="card-text" id="textoPareja0"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores0"></li>
+                    <li class="list-group-item"><span id="puntos0">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos0">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img1" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja1"></h5>
+                    <p class="card-text" id="textoPareja1"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores1"></li>
+                    <li class="list-group-item"><span id="puntos1">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos1">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img2" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja2"></h5>
+                    <p class="card-text" id="textoPareja2"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores2"></li>
+                    <li class="list-group-item"><span id="puntos2">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos2">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img3" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja3"></h5>
+                    <p class="card-text" id="textoPareja3"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores3"></li>
+                    <li class="list-group-item"><span id="puntos3">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos3">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img4" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja4"></h5>
+                    <p class="card-text" id="textoPareja4"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores4"></li>
+                    <li class="list-group-item"><span id="puntos4">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos4">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img5" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja5"></h5>
+                    <p class="card-text" id="textoPareja5"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores5"></li>
+                    <li class="list-group-item"><span id="puntos5">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos5">0</span> partidos ganados</li>
+                </ul>
+            </div>
+            <div class="card col col-lg-3 col-md-5 col-sm-12 col-4 mx-1 my-1" style="width: 18rem;">
+                <img id="img6" src="../img/padel.png" class="card-img-top px-1 pt-3" alt="imagenPareja">
+                <div class="card-body">
+                    <h5 class="card-title" id="nombrePareja6"></h5>
+                    <p class="card-text" id="textoPareja6"></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" id="jugadores6"></li>
+                    <li class="list-group-item"><span id="puntos6">0</span> puntos ganados</li>
+                    <li class="list-group-item"><span id="partidos6">0</span> partidos ganados</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+            <div class="col-md-4 d-flex align-items-center">
+                <span class="mb-3 mb-md-0 text-muted">© 2023 SPBT2</span>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="../js/parejas.js"></script>
+</body>
+</html>

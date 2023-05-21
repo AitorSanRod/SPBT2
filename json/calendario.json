@@ -1,0 +1,156 @@
+[ 
+    {
+        "jornada":"1",
+        "partidos":[
+            {
+                "parejas":"PadelScript vs. Edriadna's",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Ahí va mi burst! vs. Los Hermanos Brothers",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Dos cojos muy mancos vs. Doctores y capibaras",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Los agentes Mara",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"05/02/2023"
+    },
+    {
+        "jornada":"2",
+        "partidos":[
+            {
+                "parejas":"Edriadna's vs. Dos cojos muy mancos",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Doctores y capibaras vs. Ahí va mi burst!",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Los Hermanos Brothers vs. Los agentes Mara",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"PadelScript",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"05/03/2023"
+    },
+    {
+        "jornada":"3",
+        "partidos":[
+            {
+                "parejas":"Los agentes Mara vs. Doctores y capibaras",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Ahí va mi burst! vs. Edriadna's",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Dos cojos muy mancos vs. PadelScript",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Hermanos Brothers",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"26/03/2023"
+    },
+    {
+        "jornada":"4",
+        "partidos":[
+            {
+                "parejas":"PadelScript vs. Ahí va mi burst!",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Edriadna's vs. Los agentes Mara",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Doctores y capibaras vs. Los Hermanos Brothers",
+                "estado": "Jugado"
+            },
+            {
+                "parejas":"Dos cojos muy mancos",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"23/04/2023"
+    },
+    {
+        "jornada":"5",
+        "partidos":[
+            {
+                "parejas":"Los agentes Mara vs. PadelScript",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Ahí va mi burst! vs. Dos cojos muy mancos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Hermanos Brothers vs. Edriadna's",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Doctores y capibaras",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"14/05/2023"
+    },
+    {
+        "jornada":"6",
+        "partidos":[
+            {
+                "parejas":"PadelScript vs. Los Hermanos Brothers",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Edriadna's vs. Doctores y capibaras",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Dos cojos muy mancos vs. Los agentes Mara",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Ahí va mi burst!",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"11/06/2023"
+    },
+    {
+        "jornada":"7",
+        "partidos":[
+            {
+                "parejas":"Los agentes Mara vs. Ahí va mi burst!",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Doctores y capibaras vs. PadelScript",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Hermanos Brothers vs. Dos cojos muy mancos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Edriadna's",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"02/07/2023"
+    }
+]

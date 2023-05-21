@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+.top{
+    background-color: whitesmoke;
+    opacity: 98%;
+}
+.cabecera{
+    height: 5vh;
+}
+#menu{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: whitesmoke;
+}
+#botonMenu{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}

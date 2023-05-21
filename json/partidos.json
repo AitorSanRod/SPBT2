@@ -1,0 +1,92 @@
+[
+    {
+        "jornada": 1,
+        "pareja1":"Los hermanos brothers",
+        "puntosPareja1":15,
+        "pareja2":"Ahí va mi burst!",
+        "puntosPareja2":5,
+        "set1":"6-2",
+        "set2":"6-3",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 1,
+        "pareja1":"PadelScript",
+        "puntosPareja1":15,
+        "pareja2":"Edriadna's",
+        "puntosPareja2":1,
+        "set1":"6-0",
+        "set2":"6-1",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 1,
+        "pareja1":"Doctores y capibaras",
+        "puntosPareja1":15,
+        "pareja2":"Dos cojos muy mancos",
+        "puntosPareja2":4,
+        "set1":"6-2",
+        "set2":"6-2",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 2,
+        "pareja1":"Doctores y capibaras",
+        "puntosPareja1":5,
+        "pareja2":"Ahí va mi burst!",
+        "puntosPareja2":15,
+        "set1":"3-6",
+        "set2":"2-6",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 2,
+        "pareja1":"Dos cojos muy mancos",
+        "puntosPareja1":17,
+        "pareja2":"Edriadna's",
+        "puntosPareja2":15,
+        "set1":"6-4",
+        "set2":"2-6",
+        "set3":"6-5"
+    },
+    {
+        "jornada": 2,
+        "pareja1":"Los hermanos brothers",
+        "puntosPareja1":15,
+        "pareja2":"Los agentes Mara",
+        "puntosPareja2":5,
+        "set1":"6-2",
+        "set2":"6-3",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 3,
+        "pareja1":"Ahí va mi burst!",
+        "puntosPareja1":15,
+        "pareja2":"Edriadna's",
+        "puntosPareja2":6,
+        "set1":"6-4",
+        "set2":"6-2",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 3,
+        "pareja1":"Los agentes Mara",
+        "puntosPareja1":16,
+        "pareja2":"Doctores y capibaras",
+        "puntosPareja2":10,
+        "set1":"6-4",
+        "set2":"7-6",
+        "set3":"0-0"
+    },
+    {
+        "jornada": 4,
+        "pareja1":"Los hermanos brothers",
+        "puntosPareja1":15,
+        "pareja2":"Doctores y capibaras",
+        "puntosPareja2":4,
+        "set1":"6-1",
+        "set2":"6-3",
+        "set3":"0-0"
+    }
+]
