@@ -22,7 +22,7 @@
         "pareja":"PadelScript",
         "jugadores":["David","Salgado"],
         "partidosGanados":1,
-        "puntos": 15,
+        "puntos": 29,
         "imagen":"../img/salty.jpg",
         "texto":"Salgado no mas"
     },
@@ -57,8 +57,8 @@
         "id":6,
         "pareja":"Ahí va mi burst!",
         "jugadores":["Tucho","Alberto"],
-        "partidosGanados":2,
-        "puntos": 35,
+        "partidosGanados":3,
+        "puntos": 50,
         "imagen":"../img/tuchoAlberto2.jpg",
         "texto":"Dos tremen2 CSMs"
     }
