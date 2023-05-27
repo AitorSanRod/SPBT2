@@ -21,8 +21,8 @@
         "id":2,
         "pareja":"PadelScript",
         "jugadores":["David","Salgado"],
-        "partidosGanados":1,
-        "puntos": 29,
+        "partidosGanados":2,
+        "puntos": 44,
         "imagen":"../img/salty.jpg",
         "texto":"Salgado no mas"
     },
@@ -40,7 +40,7 @@
         "pareja":"Los agentes Mara",
         "jugadores":["Aser","Mora"],
         "partidosGanados":1,
-        "puntos": 21,
+        "puntos": 26,
         "imagen":"../img/maras.jpg",
         "texto":"Sale Adri en la foto"
     },

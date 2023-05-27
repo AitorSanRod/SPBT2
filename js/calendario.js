@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     lista.append(indiceLista);
                     carta.append(lista);
                 }
-                
+
                 //Final:
                 aplicacion.append(carta);
             }

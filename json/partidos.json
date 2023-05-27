@@ -98,5 +98,15 @@
         "set1":"6-4",
         "set2":"1-6",
         "set3":"5-4"
+    },
+    {
+        "jornada": 5,
+        "pareja1":"PadelScript",
+        "puntosPareja1":15,
+        "pareja2":"Los agentes Mara",
+        "puntosPareja2":5,
+        "set1":"6-3",
+        "set2":"6-2",
+        "set3":"0-0"
     }
 ]
