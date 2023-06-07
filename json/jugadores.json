@@ -25,15 +25,15 @@
     },
     {
         "nombre":"David",
-        "puntos":60,
-        "partidosJugados":7,
-        "partidosGanados":4
+        "puntos":72,
+        "partidosJugados":8,
+        "partidosGanados":5
     },
     {
         "nombre":"Salgado",
-        "puntos":60,
-        "partidosJugados":7,
-        "partidosGanados":5
+        "puntos":72,
+        "partidosJugados":8,
+        "partidosGanados":6
     },
     {
         "nombre":"Cgoob",
@@ -61,14 +61,14 @@
     },
     {
         "nombre":"Javi",
-        "puntos":18,
-        "partidosJugados":2,
+        "puntos":20,
+        "partidosJugados":3,
         "partidosGanados":1
     },
     {
         "nombre":"Jaime",
-        "puntos":18,
-        "partidosJugados":2,
+        "puntos":20,
+        "partidosJugados":3,
         "partidosGanados":1
     },
     {

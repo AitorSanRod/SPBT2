@@ -21,8 +21,8 @@
         "id":2,
         "pareja":"PadelScript",
         "jugadores":["David","Salgado"],
-        "partidosGanados":2,
-        "puntos": 44,
+        "partidosGanados":3,
+        "puntos": 59,
         "imagen":"../img/salty.jpg",
         "texto":"Salgado no mas"
     },
@@ -49,7 +49,7 @@
         "pareja":"Dos cojos muy mancos",
         "jugadores":["Jaime","Javi"],
         "partidosGanados":1,
-        "puntos": 21,
+        "puntos": 23,
         "imagen":"../img/cojos.jpg",
         "texto":"Aquí tambien sale"
     },
