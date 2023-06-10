@@ -13,7 +13,7 @@
         "pareja":"Edriadna's",
         "jugadores":["Adri","Ari"],
         "partidosGanados":0,
-        "puntos": 22,
+        "puntos": 32,
         "imagen":"../img/edri.jpg",
         "texto":"Ed, Eri y Edri"
     },
@@ -30,8 +30,8 @@
         "id":3,
         "pareja":"Doctores y capibaras",
         "jugadores":["Cgoob","Cris"],
-        "partidosGanados":1,
-        "puntos": 34,
+        "partidosGanados":2,
+        "puntos": 51,
         "imagen":"../img/doc.jpg",
         "texto":"Ojalá alguno sea médico"
     },

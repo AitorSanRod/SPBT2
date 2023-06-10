@@ -118,5 +118,15 @@
         "set1":"6-1",
         "set2":"6-1",
         "set3":"0-0"
+    },
+    {
+        "jornada": 3,
+        "pareja1":"Doctores y capibaras",
+        "puntosPareja1":15,
+        "pareja2":"Edriadna's",
+        "puntosPareja2":2,
+        "set1":"7-5",
+        "set2":"7-5",
+        "set3":"0-0"
     }
 ]
