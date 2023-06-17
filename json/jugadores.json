@@ -1,26 +1,26 @@
 [
     {
         "nombre":"Aitor",
+        "puntos":104,
+        "partidosJugados":10,
+        "partidosGanados":10
+    },
+    {
+        "nombre":"Roberto",
         "puntos":92,
         "partidosJugados":9,
         "partidosGanados":9
     },
     {
-        "nombre":"Roberto",
-        "puntos":80,
-        "partidosJugados":8,
-        "partidosGanados":8
-    },
-    {
         "nombre":"Adri",
-        "puntos":39,
-        "partidosJugados":8,
+        "puntos":43,
+        "partidosJugados":9,
         "partidosGanados":0
     },
     {
         "nombre":"Ari",
-        "puntos":39,
-        "partidosJugados":8,
+        "puntos":43,
+        "partidosJugados":9,
         "partidosGanados":0
     },
     {
