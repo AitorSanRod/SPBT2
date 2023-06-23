@@ -3,8 +3,8 @@
         "id":0,
         "pareja":"Los Hermanos Brothers",
         "jugadores":["Roberto","Aitor"],
-        "partidosGanados":4,
-        "puntos": 60,
+        "partidosGanados":5,
+        "puntos": 75,
         "imagen":"../img/brothers.jpg",
         "texto":"Que mira bobo? tira pa ya"
     },
@@ -22,7 +22,7 @@
         "pareja":"PadelScript",
         "jugadores":["David","Salgado"],
         "partidosGanados":3,
-        "puntos": 59,
+        "puntos": 66,
         "imagen":"../img/salty.jpg",
         "texto":"Salgado no mas"
     },
