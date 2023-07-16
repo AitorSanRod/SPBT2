@@ -85,7 +85,7 @@
                 "estado": "Descanso"
             }
         ],
-        "fecha":"23/04/2023"
+        "fecha":"APLAZADO"
     },
     {
         "jornada":"5",
@@ -96,7 +96,7 @@
             },
             {
                 "parejas":"Ahí va mi burst! vs. Dos cojos muy mancos",
-                "estado": "Pendiente"
+                "estado": "Jugado"
             },
             {
                 "parejas":"Los Hermanos Brothers vs. Edriadna's",
@@ -107,7 +107,7 @@
                 "estado": "Descanso"
             }
         ],
-        "fecha":"14/05/2023"
+        "fecha":"CERRADO"
     },
     {
         "jornada":"6",

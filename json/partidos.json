@@ -148,5 +148,15 @@
         "set1":"6-3",
         "set2":"6-4",
         "set3":"0-0"
+    },
+    {
+        "jornada": 5,
+        "pareja1":"Ahí va mi burst!",
+        "puntosPareja1":15,
+        "pareja2":"Dos cojos muy mancos",
+        "puntosPareja2":8,
+        "set1":"6-4",
+        "set2":"6-4",
+        "set3":"0-0"
     }
 ]

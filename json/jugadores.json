@@ -61,8 +61,8 @@
     },
     {
         "nombre":"Javi",
-        "puntos":20,
-        "partidosJugados":3,
+        "puntos":28,
+        "partidosJugados":4,
         "partidosGanados":1
     },
     {
@@ -73,14 +73,20 @@
     },
     {
         "nombre":"Tucho",
-        "puntos":53,
-        "partidosJugados":5,
-        "partidosGanados":4
+        "puntos":65,
+        "partidosJugados":6,
+        "partidosGanados":5
     },
     {
         "nombre":"Alberto",
-        "puntos":53,
-        "partidosJugados":5,
-        "partidosGanados":4
+        "puntos":65,
+        "partidosJugados":6,
+        "partidosGanados":5
+    },
+    {
+        "nombre":"Víctor",
+        "puntos":8,
+        "partidosJugados":1,
+        "partidosGanados":0
     }
 ]
