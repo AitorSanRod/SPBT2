@@ -12,8 +12,8 @@
         "id":1,
         "pareja":"Edriadna's",
         "jugadores":["Adri","Ari"],
-        "partidosGanados":0,
-        "puntos": 36,
+        "partidosGanados":1,
+        "puntos": 54,
         "imagen":"../img/edri.jpg",
         "texto":"Ed, Eri y Edri"
     },
@@ -21,8 +21,8 @@
         "id":2,
         "pareja":"PadelScript",
         "jugadores":["David","Salgado"],
-        "partidosGanados":3,
-        "puntos": 66,
+        "partidosGanados":4,
+        "puntos": 82,
         "imagen":"../img/salty.jpg",
         "texto":"Salgado no mas"
     },
@@ -31,7 +31,7 @@
         "pareja":"Doctores y capibaras",
         "jugadores":["Cgoob","Cris"],
         "partidosGanados":2,
-        "puntos": 51,
+        "puntos": 58,
         "imagen":"../img/doc.jpg",
         "texto":"Ojalá alguno sea médico"
     },
@@ -40,7 +40,7 @@
         "pareja":"Los agentes Mara",
         "jugadores":["Aser","Mora"],
         "partidosGanados":1,
-        "puntos": 26,
+        "puntos": 41,
         "imagen":"../img/maras.jpg",
         "texto":"Sale Adri en la foto"
     },

@@ -13,21 +13,21 @@
     },
     {
         "nombre":"Adri",
-        "puntos":43,
-        "partidosJugados":9,
-        "partidosGanados":0
+        "puntos":58,
+        "partidosJugados":10,
+        "partidosGanados":1
     },
     {
         "nombre":"Ari",
-        "puntos":43,
-        "partidosJugados":9,
-        "partidosGanados":0
+        "puntos":58,
+        "partidosJugados":10,
+        "partidosGanados":1
     },
     {
         "nombre":"David",
-        "puntos":79,
-        "partidosJugados":9,
-        "partidosGanados":5
+        "puntos":92,
+        "partidosJugados":10,
+        "partidosGanados":6
     },
     {
         "nombre":"Salgado",
@@ -37,14 +37,14 @@
     },
     {
         "nombre":"Cgoob",
-        "puntos":61,
-        "partidosJugados":8,
+        "puntos":68,
+        "partidosJugados":9,
         "partidosGanados":4
     },
     {
         "nombre":"Cris",
-        "puntos":54,
-        "partidosJugados":7,
+        "puntos":76,
+        "partidosJugados":9,
         "partidosGanados":2
     },
     {
@@ -55,8 +55,8 @@
     },
     {
         "nombre":"Mora",
-        "puntos":51,
-        "partidosJugados":9,
+        "puntos":66,
+        "partidosJugados":10,
         "partidosGanados":3
     },
     {
@@ -79,9 +79,9 @@
     },
     {
         "nombre":"Alberto",
-        "puntos":65,
-        "partidosJugados":6,
-        "partidosGanados":5
+        "puntos":78,
+        "partidosJugados":7,
+        "partidosGanados":6
     },
     {
         "nombre":"Víctor",

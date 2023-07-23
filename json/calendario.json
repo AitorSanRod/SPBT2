@@ -74,7 +74,7 @@
             },
             {
                 "parejas":"Edriadna's vs. Los agentes Mara",
-                "estado": "APLAZADO"
+                "estado": "Jugado"
             },
             {
                 "parejas":"Doctores y capibaras vs. Los Hermanos Brothers",
@@ -85,7 +85,7 @@
                 "estado": "Descanso"
             }
         ],
-        "fecha":"APLAZADO"
+        "fecha":"CERRADO"
     },
     {
         "jornada":"5",
@@ -140,7 +140,7 @@
             },
             {
                 "parejas":"Doctores y capibaras vs. PadelScript",
-                "estado": "Pendiente"
+                "estado": "Jugado"
             },
             {
                 "parejas":"Los Hermanos Brothers vs. Dos cojos muy mancos",

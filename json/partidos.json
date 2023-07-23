@@ -158,5 +158,25 @@
         "set1":"6-4",
         "set2":"6-4",
         "set3":"0-0"
+    },
+    {
+        "jornada": 4,
+        "pareja1":"Edriadna's",
+        "puntosPareja1":18,
+        "pareja2":"Los agentes Mara",
+        "puntosPareja2":15,
+        "set1":"2-6",
+        "set2":"7-4",
+        "set3":"6-4"
+    },
+    {
+        "jornada": 7,
+        "pareja1":"PadelScript",
+        "puntosPareja1":16,
+        "pareja2":"Doctores y capibaras",
+        "puntosPareja2":6,
+        "set1":"6-1",
+        "set2":"7-6",
+        "set3":"0-0"
     }
 ]
