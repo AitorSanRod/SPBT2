@@ -178,5 +178,15 @@
         "set1":"6-1",
         "set2":"7-6",
         "set3":"0-0"
+    },
+    {
+        "jornada": 7,
+        "pareja1":"Los hermanos brothers",
+        "puntosPareja1":15,
+        "pareja2":"Dos cojos muy mancos",
+        "puntosPareja2":7,
+        "set1":"6-3",
+        "set2":"6-4",
+        "set3":"0-0"
     }
 ]
